@@ -2,7 +2,7 @@
 
 ## Objective
 
-The object of this project is to practice simple HTML and CSS knowlegde through the fictional web page named "Anna Bella modelo".
+The object of this project is to practice simple HTML and CSS skills through the fictional web page named "Anna Bella modelo".
 
 # Run project
 
